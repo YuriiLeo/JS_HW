@@ -4,3 +4,6 @@
 - return
 - область видимості
 - стек викликів
+
+
+const allClientsWithOldFirst = oldClients.concat(newClients);const allClientsWithOldFirst = oldClients.concat(newClients);
